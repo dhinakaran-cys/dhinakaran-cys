@@ -1,16 +1,21 @@
-## Hi there 👋
+# Hi, I'm Dhinakaran K K 👋
 
-<!--
-**dhinakaran-cys/dhinakaran-cys** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🔐 Aspiring Cybersecurity Analyst & Penetration Tester
+🎓 2nd-year Engineering student at SRM Valliammai Engineering College
 
-Here are some ideas to get you started:
+## 🎯 Focus Areas
+- Vulnerability assessment & penetration testing
+- Web application security (OWASP Top 10)
+- Network security & traffic analysis
+- Linux & ethical hacking
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🛠️ Tools I'm Learning
+`Kali Linux` `Nmap` `Burp Suite` `Wireshark` `Metasploit`
+
+## 🌱 Currently
+- Practicing on TryHackMe / Hack The Box
+- Building my portfolio and writing up lab walkthroughs
+
+## 📫 Connect
+- Portfolio: https://portfolio1-nine-dun-22.vercel.app/
+- LinkedIn: 
